@@ -28,3 +28,8 @@ void main()
         printf("\t %d",arr[i]);
 }
     
+/*
+Enter the size of array=23
+Enter the elements of array----
+ Enter the 1 element
+*/
